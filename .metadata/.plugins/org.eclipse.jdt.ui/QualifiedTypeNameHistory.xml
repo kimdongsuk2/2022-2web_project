@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="cs.dit.service.BoardService"/>
+    <fullyQualifiedTypeName name="cs.dit.service.BInsertService"/>
+    <fullyQualifiedTypeName name="cs.dit.service.BDeleteService"/>
+    <fullyQualifiedTypeName name="cs.dit.service.BUpdateService"/>
+    <fullyQualifiedTypeName name="cs.dit.service.BListService"/>
+    <fullyQualifiedTypeName name="cs.dit.service.BSelectOneService"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="cs.dit.board.BoardDto"/>
+    <fullyQualifiedTypeName name="cs.dit.board.BoardDao"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>
